@@ -1,0 +1,23 @@
+{
+  "name": "style-dictionary-multi-brand-with-defaults",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbanksdesign/style-dictionary-multi-brand-with-defaults.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbanksdesign/style-dictionary-multi-brand-with-defaults/issues"
+  },
+  "homepage": "https://github.com/dbanksdesign/style-dictionary-multi-brand-with-defaults#readme",
+  "devDependencies": {
+    "style-dictionary": "^2.10.2"
+  }
+}
